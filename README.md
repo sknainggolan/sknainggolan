@@ -4,7 +4,7 @@
 
 <h1 align='center'><samp><strong>Hi there 👋, I am Sophian Nainggolan</strong></samp></h1>
 <!--<h3 align='center'><strong><a href="https://github.com/sknainggolan" target="_blank">Github🌐</a></strong></h3-->
-<p align='center'> Web Developer | DevOps & Cloud Enthusiast </p>
+<p align='center'> Copy-and-Paste was programmed by programmers for programmers actually. </p>
 
 ---
 
